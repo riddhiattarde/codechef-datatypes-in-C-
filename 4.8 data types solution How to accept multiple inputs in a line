@@ -1,0 +1,11 @@
+#include <bits/stdc++.h>
+
+using namespace std;
+
+int main()
+{
+    int A, B, C;          // Declare three integer variables A, B, and C
+    cin >> A >> B >> C;   // Read inputs into A, B, and C
+    cout << A << " " << B << " " << C;  // Output the values of A, B, and C separated by spaces
+    return 0;
+}
