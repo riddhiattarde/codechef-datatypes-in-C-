@@ -1,0 +1,10 @@
+#include <bits/stdc++.h>
+
+using namespace std;
+
+int main()
+{
+    int N;          // Declare an integer variable N
+    cin >> N;       // Read input into N
+    cout << N;      // Output the value of N
+}
