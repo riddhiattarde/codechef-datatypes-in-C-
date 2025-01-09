@@ -1,0 +1,13 @@
+#include <bits/stdc++.h>
+
+using namespace std;
+
+int main()
+{
+    int A, B, C, D, E, F, G, H, I;        // Declare integer variables
+    cin >> A >> B;                         // Read input for A and B
+    cin >> C >> D >> E;                    // Read input for C, D, and E
+    cin >> F >> G >> H >> I;               // Read input for F, G, H, and I
+    cout << A << " " << B << " " << C << " " << D << " " << E << " " << F << " " << G << " " << H << " " << I;
+    return 0;
+}
